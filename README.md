@@ -1,2 +1,2 @@
 # learn-go
-learn go
+start learn go
